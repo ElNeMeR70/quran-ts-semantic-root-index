@@ -1,0 +1,11 @@
+{
+  "name": "quran-ts-semantic-root-index",
+  "version": "1.0.0",
+  "description": "Quranic Trilateral & Quadrilateral Root Inverted Index (المعجم المفهرس للجذور القرآنية الثلاثية والرباعية)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
